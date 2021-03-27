@@ -1,0 +1,7 @@
+{
+    "prefix": "!",
+    "token": "token",
+    "warnreason_base": "Testing",
+    "lang": "FR", 
+    "port": 3000
+}

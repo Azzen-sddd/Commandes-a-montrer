@@ -1,0 +1,8 @@
+{
+    "p": "Permission refusé.",
+    "t": "Tu n'as pas la permission pour cette commande! (`MANAGE_MESSAGES`)",
+    "ist": "Il faut mettre une durée et une raison.",
+    "cd": " Il faut mettre une durée et une raison ou tu peux mettre",
+    "tt": "Le slowmode a était mis a"
+
+}

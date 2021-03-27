@@ -1,0 +1,6 @@
+{
+    "no_permission": "<:dont:803357503412502588> | Tu n'as pas la permission pour cette commande! (`MANAGE_GUILD`)",
+    "permission_refused": "Permission refusé",
+    "Bn": "Bienvenue dans le setup du bot.",
+    "b": "D'abord il faut faire !prefix 'PREFIX ICI' (!help si besoin.) et !setlang (FR, ES, EN)" 
+}

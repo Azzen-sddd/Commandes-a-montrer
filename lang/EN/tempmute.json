@@ -1,0 +1,9 @@
+{
+    "no_permission": "You don't have permission for this command! (`MANAGE_ROLES`) ",
+    "permission_refused": "Permission refused",
+    "tm": "You cannot mutate.",
+    "tm1": "TempMute",
+    "am": "a was transferred.",
+    "am1": "a was mute for",
+    "m": "<:dont:803357503412502588> | A person must be mentioned."
+}

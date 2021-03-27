@@ -1,0 +1,10 @@
+{
+    "a": "You don't have permission for this command!(`MANAGE_MESSAGES`) ",
+    "aa": "Permission refused.",
+    "b": "You have to put a number.",
+    "bb": "You need a number and nothing else.",
+    "c": "You cannot remove more than 100 messages.",
+    "cc": "You must delete at least one message.",
+    "d": "Message deleted.",
+    "dd": "Messages deleted."
+}

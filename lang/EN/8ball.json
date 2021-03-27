@@ -1,0 +1,6 @@
+{
+    "stp": "Please you need a full answer.",
+    "resp": ["Mm, Yes!", "No ..", "Absolutely not.", "Impossible!", "Very possible!", "I don't know.", "It is probable!" ],
+    "Q": "Question:",
+    "R": "Response:"
+}

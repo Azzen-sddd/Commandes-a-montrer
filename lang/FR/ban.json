@@ -1,0 +1,10 @@
+{
+    "no_permission": "<:dont:803357503412502588> | Tu n'as pas la permission pour cette commande! (`BAN_MEMBERS`)",
+    "permission_refused": "Permission refusé",
+    "mention": "<:dont:803357503412502588> | Il faut mentionner une personne.",
+    "toi_meme": "<:dont:803357503412502588> | Tu ne peux pas te ban.",
+    "pp": "<:dont:803357503412502588> | Je ne peux pas ban cette personne.",
+    "nor": "Aucune raison donné",
+    "s": "<:success:798475587236790332> | Utilisateur banni.",
+    "p": "Avec comme raison :"
+}

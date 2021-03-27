@@ -1,0 +1,9 @@
+{
+    "t":"**Please specify the time!**",
+    "s": "**Sorry I only do d, m, h, or s.**",
+    "tt": "**Please tell me what you want to be reminded off**",
+    "yr": "Your reminder will go off in ",
+    "i": "It has been",
+    "hr": " here is your reminder:",
+    "rr": "REMINDER"
+}

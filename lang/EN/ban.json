@@ -1,0 +1,10 @@
+{
+    "no_permission": "<:dont:803357503412502588> | You do not have permission for this command! (` BAN_MEMBERS`) ",
+    "permission_refused": "Permission refused",
+    "mention": "<:dont:803357503412502588> | A person must be mentioned.",
+    "toi_meme": "<:dont:803357503412502588> | You cannot ban yourself.",
+    "pp": "<:dont:803357503412502588> | I cannot ban this person.",
+    "nor": "No reason given",
+    "s": "<:success:798475587236790332> | User banned.",
+    "p": "With the reason:"
+}

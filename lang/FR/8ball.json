@@ -1,0 +1,6 @@
+{
+    "stp": "S'il te plait il faut une réponse entière.",
+    "resp": ["Mm, Oui!", "Non..", "Absolument pas.", "Impossible!", "Fort possible!","Je ne sais pas.", "C'est probable!"],
+    "Q": "Question:",
+    "R": "Réponse:"
+}

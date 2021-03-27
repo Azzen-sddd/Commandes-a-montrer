@@ -1,0 +1,9 @@
+{
+    "no_permission": " Tu n'as pas la permission pour cette commande! (`MANAGE_ROLES`)",
+    "permission_refused": "Permission refusé",
+    "tm": "Tu ne peux pas te mute.",
+    "tm1": "TempMute",
+    "am": "a était muté.",
+    "am1": "a était mute pour",
+    "m": "<:dont:803357503412502588> | Il faut mentionner une personne."
+}

@@ -1,0 +1,7 @@
+{
+    "no_permission": "<:dont:803357503412502588> | You do not have permission for this command! (` MANAGE_GUILD`) ",
+    "permission_refused": "Permission refused",
+    "Usage": "Usage:! Prefix <the prefix here>",
+    "s": "<:success:798475587236790332> | Prefix registered.",
+    "b": "New prefix:"
+   }

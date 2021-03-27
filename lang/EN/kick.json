@@ -1,0 +1,11 @@
+{
+    "no_permission": "<:dont:803357503412502588> | You don't have permission for this command! (` KICK_MEMBERS`) ",
+    "permission_refused": "Permission refused",
+    "mention": "<:dont:803357503412502588>| A person must be mentioned.",
+    "toi_meme": "<:dont:803357503412502588>| You can't kick yourself.",
+    "success": "<:success:798475587236790332> | Kick",
+    "description": "was successfully kicked.",
+    "footer": "Azzenbot.",
+    "fail": "<:dont:803357503412502588>| I failed to kick user.",
+    "notin": "<:dont:803357503412502588>| They are not in the server."
+}

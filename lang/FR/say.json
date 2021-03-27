@@ -1,0 +1,7 @@
+{
+    "tt": "Permission refusé.",
+    "c": "Tu n'as pas la permission pour cette commande! (`MANAGE_MESSAGES`)",
+    "cc": "Il faut un channel.",
+    "ccc": "Il faut un message."
+
+}

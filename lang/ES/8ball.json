@@ -1,0 +1,6 @@
+{
+    "stp": "Por favor, necesita una respuesta completa.",
+    "resp": ["Mm, ¡Sí!", "No ...", "Absolutamente no", "¡Imposible!", "¡Muy posible!", "No sé", "¡Es probable!" ],
+    "Q": "Pregunta:",
+    "R": "Respuesta:"
+}
